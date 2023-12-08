@@ -1,0 +1,9 @@
+names:
+- Ambulance
+- Bus
+- Car
+- Motorcycle
+- Truck
+nc: 5
+train: Vehicles-OpenImages-1/train/images
+val: Vehicles-OpenImages-1/valid/images
